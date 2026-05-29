@@ -18,8 +18,7 @@ search:
 nav_sort: case_insensitive
 
 # Branding
-logo: /assets/images/logo.png
-favicon_ico: /assets/images/favicon.ico
+logo: /assets/images/logo.svg
 
 # Footer
 footer_content: "Copyright &copy; 2025 Atos. All rights reserved."
