@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Polaris AI Agents UI banner</title>
+  <desc id="desc">Abstract blue gradient banner for Polaris AI documentation home page.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)" rx="24" />
+  <circle cx="1020" cy="90" r="140" fill="url(#glow)" />
+  <circle cx="180" cy="350" r="180" fill="#38bdf8" opacity="0.15" />
+
+  <g fill="none" stroke="#7dd3fc" stroke-opacity="0.5" stroke-width="2">
+    <path d="M120 260 C260 120, 460 360, 620 220 S960 100, 1110 230" />
+    <path d="M90 300 C230 160, 430 390, 590 250 S920 140, 1080 270" />
+  </g>
+
+  <g fill="#e0f2fe" font-family="Segoe UI, Arial, sans-serif">
+    <text x="90" y="150" font-size="52" font-weight="700">Polaris AI Agents UI</text>
+    <text x="90" y="200" font-size="24" opacity="0.95">Build, orchestrate, and scale AI workflows</text>
+  </g>
+</svg>
