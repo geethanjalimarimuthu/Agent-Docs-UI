@@ -3,7 +3,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
-url: https://github.com/IN-ATOS-AARA/atos-ai-agents-ui
+url: https://geethanjalimarimuthu.github.io
+baseurl: /Agent-Docs-UI
 
 title: Polaris AI Agents UI
 description: Build and manage AI agents with visual workflows
