@@ -8,7 +8,11 @@ description: Build and manage AI agents with visual workflows
 
 Welcome to the **Polaris AI Agents UI** documentation. This guide will help you create, manage, and operate AI agents in a collaborative multi-tenant environment.
 
-![Polaris AI Agents UI banner]({{ '/assets/images/home-hero.svg' | relative_url }})
+<img
+  src="{{ '/assets/images/home-hero.svg' | relative_url }}"
+  alt="Polaris AI Agents UI banner"
+  style="display:block; width:100%; max-width:980px; height:auto; margin:16px 0 24px; border-radius:12px;"
+/>
 
 ## What is Polaris AI Agents UI?
 
